@@ -13,7 +13,7 @@ public class Main {
         System.out.println(!(10 > 10.55));
         System.out.println(Boolean.compare(true, false));
 
-        System.out.println(10 / 3);
+        System.out.println(11 / 5);
         System.out.println(10 + 10.55);
         System.out.println(10.55 - 10);
         System.out.println(10 * 10.55);
